@@ -1,6 +1,5 @@
 # KNN-Classification-for-Iris-Species
 
-
 &nbsp;
 ### 1. Introduction
 Here, I am working on a well-known Supervised Machine Learning algorithm known as KNN or k-Nearest Neighbors.
