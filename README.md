@@ -35,14 +35,12 @@ I am using the Iris data set to build the kNN model. Iris data is a very popular
 ### 3. Building KNN Model:
 * Split the data into training and testing data sets. (20% - Test Data)
 * Develop a basic KNN model with K neighbors = 3
+
+
 &nbsp;
-
-
-
 ### 4. Model Evaluation:
 * Evaluated the base model using **Confusion Matrix, Accuracy, and Misclassification Error Rate**
+
+
 &nbsp;
-
-
-
 ### 5. Cross Validation:
