@@ -15,4 +15,14 @@ I am using the Iris data set to build the kNN model. Iris data is a very popular
 
 ### 2. Data Preprocessing:
 * Seperated independent and dependent variables
-* Performed *Label Encoding* to transform the categorical dependent variable into numerical variable
+* Performed **Label Encoding** to transform the categorical dependent variable into numerical variable
+
+### 3. Building KNN Model:
+* Split the data into training and testing data sets. (20% - Test Data)
+* Develop a basic KNN model with K neighbors = 3
+
+### 4. Model Evaluation:
+* Evaluated the base model using **Confusion Matrix, Accuracy, and Misclassification Error Rate**
+
+
+
