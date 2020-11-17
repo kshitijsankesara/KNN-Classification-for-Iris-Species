@@ -2,15 +2,18 @@
 &nbsp;
 
 
+
 ### 1. Introduction
 Here, I am working on a well-known Supervised Machine Learning algorithm known as KNN or k-Nearest Neighbors.
 I am using the Iris data set to build the kNN model. Iris data is a very popular data set for machine learning. Species variable is our target variable which we will predict using our model. 
 &nbsp;
 
 
+
 ###### KNN:
 ![Screenshot](Screenshot.png)
 &nbsp;
+
 
 
 ##### Steps:
@@ -21,10 +24,12 @@ I am using the Iris data set to build the kNN model. Iris data is a very popular
 &nbsp;
 
 
+
 ### 2. Data Preprocessing:
 * Seperated independent and dependent variables
 * Performed **Label Encoding** to transform the categorical dependent variable into numerical variable
 &nbsp;
+
 
 
 ### 3. Building KNN Model:
@@ -33,9 +38,11 @@ I am using the Iris data set to build the kNN model. Iris data is a very popular
 &nbsp;
 
 
+
 ### 4. Model Evaluation:
 * Evaluated the base model using **Confusion Matrix, Accuracy, and Misclassification Error Rate**
 &nbsp;
+
 
 
 ### 5. Cross Validation:
