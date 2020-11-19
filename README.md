@@ -29,6 +29,6 @@ I am using the Iris data set to build the kNN model. Iris data is a very popular
 * Performing **10 fold** cross validation
 * Considering all **K values from 1 till 49**
 * Obtaining average Accuracy for each K value
-* Choosing the best model based on the Accuracy and Error rate 
+* Choosing the best model based on the Accuracy and Error rate.
 
 
