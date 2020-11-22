@@ -1,6 +1,6 @@
 # KNN-Classification-for-Iris-Species-and-Diabetes-Prediction
 
-&nbsp;
+
 ### 1. Introduction
 Here, I am working on a well-known Supervised Machine Learning algorithm known as KNN or k-Nearest Neighbors.
 I'm building kNN model on two different data sets. One is the Iris data and another one is diabetes dataset. Iris data is a very popular data set for machine learning. Species variable is our target variable which we will predict using our model. For the second data, we have medical parameters and using that we have to classify patients with diabetes.
