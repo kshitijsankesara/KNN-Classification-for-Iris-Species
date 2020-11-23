@@ -29,6 +29,6 @@ I'm building kNN model on two different data sets. One is the Iris data and anot
 * Performing **10 fold** cross validation
 * Considering all **K values from 1 till 49**
 * Obtaining average Accuracy for each K value
-* Choosing the best model based on the Accuracy and Error rate
+* Choosing the best model based on the Accuracy and Error rate.
 
 
